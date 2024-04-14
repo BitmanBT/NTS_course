@@ -4,7 +4,7 @@
 namespace bits
 {
     /**
-     * Iverts chosen bytes.
+     * Iverts chosen bits.
      * 
      * @param ptr Pointer to the memory block.
      * @param len Length of the memory block.

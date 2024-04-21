@@ -10,3 +10,4 @@ cmake ..
 make
 ./inverter
 ```
+In directory with name 3rd_week_hw you can find homeworks made while 3rd week of learning: tokenizer and linked list template realization.
